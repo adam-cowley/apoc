@@ -21,12 +21,12 @@
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
-    "@neo4j/code-signer": "^1.1.1",
+    "@neo4j/code-signer": "^1.1.4",
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-plugin-eslint": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
     "babel-eslint": "^10.1.0",
-    "cypress": "^4.5.0",
+    "cypress": "^4.12.1",
     "elasticlunr": "^0.9.5",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
